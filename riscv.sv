@@ -1,21 +1,3 @@
-// Engineer: 
-// 
-// Create Date: 16.11.2024 00:07:17
-// Design Name: 
-// Module Name: riscv
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module riscv(
 input logic clk,     
