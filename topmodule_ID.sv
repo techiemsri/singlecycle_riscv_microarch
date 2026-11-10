@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// Description: Decode stage: register file, control unit, mux, and gate.
+// Decode stage: register file, control unit, mux, and gate.
 // Inputs: rs1, rs2, ws, wd, opcode, imm value.
 // Outputs: reg1, muxop, zero.
 // Control Outputs: ALU src, ALU op, branch, regwrite, memread, memwrite, mem2reg.
